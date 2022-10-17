@@ -1,2 +1,2 @@
-# CL-Stock-Analysis
-Code Louisville Data Analysis project which attempts to determine stock trading strategies based on historical stock data analysis.
+# CL-Data-Main
+Repository for the Code Louisville Data Analysis Project
