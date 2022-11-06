@@ -1,7 +1,7 @@
 #  CL-Stock Analysis.
 ## Repository for the Code Louisville Data Analysis Project
 
-#  **NOTE:** Some of the cells in this notebook call functions which require user input!!!
+#  ***** NOTE: ***** Some of the cells in this notebook call functions which require user input!!!
 ## *** If you select "Run All" from the menu bar then you will be prompted to input the requested information for each of those cells.
 
 ## **REQUIREMENTS**
