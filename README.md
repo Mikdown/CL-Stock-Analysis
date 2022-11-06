@@ -15,7 +15,7 @@
 ### Seaborn
 
 ## Project requirments met:
->   Catagory 1.
+    Catagory 1.
       1. Read in data from a local csv, excel file, json, or any other file type.
 
     Catagory 2.
