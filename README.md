@@ -14,7 +14,7 @@
 ### Math
 ### Seaborn
 
-## >Project requirments met:
+## Project requirments met:
 >   Catagory 1.
 >       1. Read in data from a local csv, excel file, json, or any other file type.
 >   Catagory 2.
@@ -28,7 +28,7 @@
 >       1. Write markdown cells in Jupyter explaining your thought process and code.
 
 
-
+## Basic Functionality:
 > The functions in the stock_analysis_funcs.ipynb file requests the user to imput a valid stock symbol and in some cases a valid year from the list provided below the input field. 
 > Valid symbols can be entered in lower, upper or mixed case. It takes that input and reads in data from the corrosponding local .csv file. 
 > It then cleans/transforms the data into a pandas dataframe.
@@ -36,8 +36,8 @@
 > If no corrosponding file is found the function terminates and returns a message.
 
 ## Primary thesis:
-### A stock can be listed as a good or bad candidate for the Iron Condor options trading method based on analysis of average Open/Close,
+> A stock can be listed as a good or bad candidate for the Iron Condor options trading method based on analysis of average Open/Close,
 > High/Low, and Price/Volume metrics.
 
 ## Result:
-### Although these are fundam4ntals for that analysis a much more granular analysis is necessary.
+> Although these are fundamentals for that thesis a much more granular analysis is necessary.
