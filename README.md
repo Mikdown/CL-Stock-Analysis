@@ -5,14 +5,12 @@
 ## *** If you select "Run All" from the menu bar then you will be prompted to input the requested information for each of those cells.
 
 ## **REQUIREMENTS**
-### Python interpreter version 3.10.6 64 bit
-### Jupyter  v2022.9.1202862440 
-### Pandas
-### Datetime
-### Matplotlib
-### Numpy
-### Math
-### Seaborn
+### python interpreter version 3.10.6 64 bit
+### jupyter  v2022.9.1202862440 
+### pandas
+### matplotlib
+### numpy
+### seaborn
 
 ## Project requirments met:
     Catagory 1.
